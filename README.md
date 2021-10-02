@@ -49,12 +49,12 @@ For this project we will try to find out the below observations:
 First of all we we import all of necessary libraries.
 We read the data as it will be a general view with necessary information.
 
-## 3. Prepare Data: 
+## 3. Prepare Data 
 Only need to keep and condense necessry columns for a dataframe plus handle use of NaN values.
 
-## 4. Data Modeling: 
+## 4. Data Modeling
 Will utlize tables and graphs.
 
-## 5. Evaluate the Results:
+## 5. Evaluate the Results
 Results will be noted in this notebook but also in the blog post.
 
