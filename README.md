@@ -56,5 +56,5 @@ Only need to keep and condense necessry columns for a dataframe plus handle use 
 Will utlize tables and graphs.
 
 ## 5. Evaluate the Results
-Results will be noted in this notebook but also in the blog post.
+Results will be noted in this notebook but also in the blog post. https://medium.com/@albokhitan/data-scientist-analysis-on-stack-overflow-survey-us-vs-europe-fc1d02cf70b9
 
